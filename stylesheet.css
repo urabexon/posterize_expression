@@ -8,9 +8,11 @@ body {
 }
 
 #container {
+	/*
 	display: grid;
 	width: 100vw;
 	place-items: center;
+	*/
 }
 
 #img-container {
