@@ -1,0 +1,31 @@
+* {
+	margin: 0;
+	padding: 0;
+  }
+
+  body {
+	background: black;
+  }
+
+  #container {
+	display: grid;
+	width: 100vw;
+	place-items: center;
+  }
+
+  #img-container {
+	position: fixed;
+	height: 100%;
+  }
+
+  img {
+	position: absolute;
+	height: 100%;
+  }
+
+  p {
+	color: #e1e1e1;
+	padding: 48px;
+	font-size: 32px;
+	font-family: 'Dancing Script', cursive;
+	
